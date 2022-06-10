@@ -1,0 +1,35 @@
+footer{
+  background-color:#111111;
+  color: #f0f0f0;
+  padding-bottom: 20px;
+  letter-spacing: 1px;
+}
+#contact{
+  width: 600px;
+  margin: auto;
+  font-size: 18px;
+  font-weight: 300;
+}
+#contact li{
+  padding-bottom: 10px;
+}
+#contact i{
+  width: 20px;
+  text-align: center;
+  margin-right: 10px;
+}
+#social{
+  width: 300px;
+  margin: auto;
+}
+#social i{
+  color: #f0f0f0;
+  font-size: 35px;
+  float: left;
+  margin: 0 20px;
+}
+footer p{
+  font-size: 25px;
+  text-align: center;
+
+}
